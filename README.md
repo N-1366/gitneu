@@ -16,5 +16,9 @@ etwas schreiben
 git push gitneu:gitneu
  schreibe noch mal ein
 
+ suche konflikte
+
+ 
+
 
 

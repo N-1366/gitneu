@@ -4,6 +4,8 @@ Hallo neue Unterricht
  ich weiter machen 
 
  wir können noch hier bleiben
+ 
+ ich bin da.....
 
 ich schreibe neue satz 
 

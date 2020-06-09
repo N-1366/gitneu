@@ -4,6 +4,12 @@ Hallo neue Unterricht
  ich kann viele sache machen
 
  wir können noch hier bleiben
+ 
+ ich bin da.....
 
 ich schreibe neue satz 
- 
+
+git push gitneu:gitneu
+
+
+

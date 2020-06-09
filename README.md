@@ -7,7 +7,7 @@ Hallo neue Unterricht
  
  ich bin da.....
 
-ich schreibe neue satz 
+habe ich probleme
 
 git push gitneu:gitneu
 

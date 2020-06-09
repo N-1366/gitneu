@@ -1,7 +1,7 @@
 Hallo neue Unterricht
  ich versuche noch info bei das
 
- ich weiter machen 
+ ich kann viele sache machen
 
  wir können noch hier bleiben
  

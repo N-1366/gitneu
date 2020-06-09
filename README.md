@@ -9,6 +9,10 @@ Hallo neue Unterricht
 
 ich schreibe neue satz 
 
+
+etwas schreiben 
+
+
 git push gitneu:gitneu
 
 
